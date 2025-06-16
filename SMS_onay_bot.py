@@ -11,7 +11,7 @@ import time
 import os
 
 # Bot tokenı ve admin ID'leri
-TOKEN = '7960725577:AAFeAdxJqhBi-K60rLzIyoRQFLs6OjvlB6g'  # @BotFather'dan aldığın tokenı buraya yaz
+TOKEN = '7960725577:AAHiOdVVzHOJ7fwTul-kf2eRgwqIXGIjZlk'  # @BotFather'dan aldığın tokenı buraya yaz
 ADMIN_IDS = [7399649774]  # Kendi Telegram ID'ni buraya yaz (@UserInfoBot ile öğren)
 
 # Kullanıcı durumlarını ve verilerini saklamak için sözlükler
